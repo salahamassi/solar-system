@@ -10,7 +10,7 @@ export default function SolarSection(): JSX.Element {
           Energy Freedom with Solar and Storage
         </h2>
         <div className="w-[10px] bg-orange-500 h-[26rem]" />
-        <div className=" space-y-5">
+        <div className="space-y-5">
           <p className="text-gray-500 text-sm w-60">
             Vulputate dignissim suspendisse in est ante in nibh mauris. Neque
             aliquam vestibulum morbi blandit cursus risus. Nisi est sit amet
